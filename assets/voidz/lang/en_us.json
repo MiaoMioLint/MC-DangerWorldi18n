@@ -1,0 +1,12 @@
+{
+  "block.voidz.item_group": "VoidZ",
+  "block.voidz.void_portal": "虚无传送门",
+  "block.voidz.void": "虚无",
+  "block.voidz.infested_void": "灾祸虚无",
+
+  "death.attack.infested": "%1$s 被虚空当成了晚餐",
+
+  "text.autoconfig.voidz.title": "VoidZ 配置",
+  "text.autoconfig.voidz.option.allow_boss_respawn": "允许Boss重生",
+  "text.autoconfig.voidz.option.boss_respawn_time": "Boss重生时间"
+}

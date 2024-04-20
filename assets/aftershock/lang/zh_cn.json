@@ -1,0 +1,52 @@
+{
+    "block.aftershock.graboid_egg":"\u52a0\u535a\u8815\u866b\u5375",
+    "block.aftershock.tropical_graboid_egg":"\u70ed\u5e26\u52a0\u535a\u8815\u866b\u5375",
+    "block.aftershock.seismograph":"\u5730\u9707\u4eea",
+    "entity.aftershock.american_dirt_dragon":"\u7f8e\u6d32\u5730\u9f99",
+    "entity.aftershock.american_dirt_dragon_albino":"\u767d\u5316\u7f8e\u6d32\u5730\u9f99",
+    "entity.aftershock.american_graboid":"\u7f8e\u6d32\u52a0\u535a\u8815\u866b",
+    "entity.aftershock.american_graboid_albino":"\u767d\u5316\u7f8e\u6d32\u52a0\u535a\u8815\u866b",
+    "entity.aftershock.american_shreiker":"\u7f8e\u6d32\u5c16\u58f0\u517d",
+    "entity.aftershock.american_blaster":"\u7f8e\u6d32\u5c3e\u7206\u517d",
+    "entity.aftershock.tropical_dirt_dragon":"\u70ed\u5e26\u5730\u9f99",
+    "entity.aftershock.tropical_graboid":"\u70ed\u5e26\u52a0\u535a\u8815\u866b",
+    "entity.aftershock.tropical_shreiker":"\u70ed\u5e26\u5c16\u58f0\u517d",
+    "entity.aftershock.tropical_blaster":"\u70ed\u5e26\u5c3e\u7206\u517d"
+    ,"entity.aftershock.shell":"\u9730\u5f39\u67aa\u5b50\u5f39"
+    ,"item.aftershock.graboid_egg":"\u52a0\u535a\u8815\u866b\u5375"
+    ,"item.aftershock.tropical_graboid_egg":"\u70ed\u5e26\u52a0\u535a\u8815\u866b\u5375"
+    ,"item.aftershock.seismograph":"\u5730\u9707\u4eea"
+    ,"item.aftershock.portable_seismograph":"\u4fbf\u643a\u5f0f\u5730\u9707\u4eea"
+    ,"item.aftershock.american_dirt_dragon_spawnegg":"\u7f8e\u6d32\u5730\u9f99\u5237\u602a\u86cb"
+    ,"item.aftershock.american_graboid_spawnegg":"\u7f8e\u6d32\u52a0\u535a\u8815\u866b\u5237\u602a\u86cb"
+    ,"item.aftershock.american_shreiker_spawnegg":"\u7f8e\u6d32\u5c16\u58f0\u517d\u5237\u602a\u86cb"
+    ,"item.aftershock.american_blaster_spawnegg":"\u7f8e\u6d32\u5c3e\u7206\u517d\u5237\u602a\u86cb"
+    ,"item.aftershock.tropical_dirt_dragon_spawnegg":"\u70ed\u5e26\u5730\u9f99\u5237\u602a\u86cb"
+    ,"item.aftershock.tropical_graboid_spawnegg":"\u70ed\u5e26\u52a0\u535a\u8815\u866b\u5237\u602a\u86cb"
+    ,"item.aftershock.tropical_shreiker_spawnegg":"\u70ed\u5e26\u5c16\u58f0\u517d\u5237\u602a\u86cb"
+    ,"item.aftershock.tropical_blaster_spawnegg":"\u70ed\u5e26\u5c3e\u7206\u517d\u5237\u602a\u86cb"
+    ,"item.aftershock.shotgun_shell":"\u9730\u5f39\u67aa\u5b50\u5f39",
+    "item.aftershock.eightgauge":"8 Gauge霰弹枪",
+    "aftershock.ammo.reloadshells":"这玩意读作Xian4 Dan4枪!",
+    "aftershock.egg.text":"\u8fd9\u4e2a\u5375\u4f3c\u4e4e\u5f88\u6e29\u6696\uff0c\u800c\u4e14\u5076\u5c14\u4f1a\u52a8\u4e00\u4e0b",
+    "aftershock.seismograph.text":"\u5730\u9f99\u548c\u52a0\u535a\u8815\u866b\u6700\u591a\u80fd\u79fb\u52a8\u523064\u4e2a\u65b9\u5757\u5185",
+    "aftershock.portable.text":"\u53ef\u4ee5\u8ffd\u8e2a5\u4e2a\u65b9\u5757\u5185\u7684\u5730\u9f99\u548c\u52a0\u535a\u8815\u866b",
+    "aftershock.portable.text2":"\u4f7f\u7528\u94c1\u952d\u53ef\u4ee5\u4fee\u590d\u4eea\u5668",
+    "itemGroup.aftershock.items":"\u9707\u98a4",
+    "config.aftershock.option.shotgun_damage":"8 Gauge 伤害",
+    "config.aftershock.option.americandirtdevil_health":"美国污垢健康",
+    "config.aftershock.option.americandirtdevil_exp":"美国邪恶的经验",
+    "config.aftershock.option.americandirtdevil_damage":"美国邪恶的伤害",
+    "config.aftershock.option.americandirtdevil_ram_damage":"美国邪恶的随机伤害",
+    "config.aftershock.option.americangraboid_health":"American Graboid Health",
+    "config.aftershock.option.americangraboid_exp":"American Graboid Exp",
+    "config.aftershock.option.americangraboid_damage":"American Graboid Damage",
+    "config.aftershock.option.americangraboid_armor":"American Graboid Armor",
+    "config.aftershock.option.americanshreiker_health":"American Shreiker Health",
+    "config.aftershock.option.americanshreiker_exp":"American Shreiker Exp",
+    "config.aftershock.option.americanshreiker_damage":"American Shreiker Damage",
+    "config.aftershock.option.americanblaster_health":"American Blaster Health",
+    "config.aftershock.option.americanblaster_exp":"美国装置经验"
+    ,"config.aftershock.option.americanblaster_damage":"美国装置损害",
+    "config.screen.aftershock":"Aftershock 设置"
+}
