@@ -1,0 +1,10 @@
+{
+   "pack": {
+      "pack_format": 15,
+      "supported_formats": {
+         "min_inclusive": 14,
+         "max_inclusive": 32
+      },
+      "description": "\u00A7eD-World i18n for 1.20.1\n\u00A7Version 1.0 ChineseUpdate"
+   }
+}
