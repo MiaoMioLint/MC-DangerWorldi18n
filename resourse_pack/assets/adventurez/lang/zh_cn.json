@@ -35,7 +35,7 @@
   "entity.adventurez.deer": "鹿",
   "entity.adventurez.enderwarthog": "末影疣猪",
 
-  "item.adventurez.item_group": "冒险Z",
+  "item.adventurez.item_group": "AdventureZ",
   "item.adventurez.spawn_stone_golem": "黑石傀儡刷怪蛋",
   "item.adventurez.spawn_small_stone_golem": "小黑石傀儡刷怪蛋",
   "item.adventurez.spawn_piglin_beast": "猪灵兽刷怪蛋",
@@ -107,7 +107,7 @@
   "item.adventurez.warthog_shell_piece": "末影疣猪壳片",
   "item.adventurez.warthog_meat": "末影疣猪肉",
   "item.adventurez.cooked_warthog_meat": "烤末影疣猪",
-  "item.adventurez.handbook": "Handbook",
+  "item.adventurez.handbook": "手册",
   "item.adventurez.patchouli_book.tooltip": "§cPatchouli mod缺失",
   "item.adventurez.enchanted_book.tooltip": "§c附魔不兼容AdventureZ",
   "item.adventurez.enchanted_book.tooltip2": "§c这本书的附魔特性被禁用",
